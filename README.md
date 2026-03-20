@@ -14,9 +14,7 @@ Double-cliquer sur `student_performance_dashboard.html` ou l’ouvrir dans un na
 
 ## Régénérer le dashboard
 
-```powershell
-& 'C:\Users\bakir\anaconda3\python.exe' 'build_dashboard.py'
-```
+ 
 
 ## Ce que contient le dashboard
 
